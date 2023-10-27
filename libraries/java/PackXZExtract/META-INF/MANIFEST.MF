@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.2.0
+Archiver-Version: Plexus Archiver
+Built-By: d_sca
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_292
+Main-Class: com.dscalzi.packxzextract.PXZEMain
+
